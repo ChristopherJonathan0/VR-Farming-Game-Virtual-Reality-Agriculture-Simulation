@@ -26,7 +26,7 @@ This project is developed as part of an academic requirement (Thesis/Skripsi) to
 - **Game Engine:** [Unity Engine](https://unity.com/) Version: 2022.3
 - **Programming Language:** C#
 - **3D Modeling & Texturing:** [Blender](https://www.blender.org/)
-- **VR SDK:** *[Tulis SDK yang kamu pakai, misal: XR Interaction Toolkit / OpenXR / Oculus SDK]*
+- **VR SDK:** XR Interaction Toolkit, OpenXR, 
 
 ## 🚀 Getting Started
 
@@ -34,7 +34,7 @@ Follow these steps to run the project locally on your machine.
 
 ### Prerequisites
 - Unity Hub and Unity Editor 2022.3
-- A compatible VR Headset (e.g., Meta Quest 2, HTC Vive, etc.) OR a PC capable of running VR via Link/AirLink.
+- A compatible VR using phone 
 - Git installed on your system.
 
 ### Installation & Running
