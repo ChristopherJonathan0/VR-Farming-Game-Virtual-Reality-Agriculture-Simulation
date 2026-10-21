@@ -26,7 +26,7 @@ This project is developed as part of an academic requirement (Thesis/Skripsi) to
 - **Game Engine:** [Unity Engine](https://unity.com/) Version: 2022.3
 - **Programming Language:** C#
 - **3D Modeling & Texturing:** [Blender](https://www.blender.org/)
-- **VR SDK:** XR Interaction Toolkit, OpenXR, 
+- **VR SDK:** XR Interaction Toolkit, OpenXR, GoogleVR
 
 ## 🚀 Getting Started
 
